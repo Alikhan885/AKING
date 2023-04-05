@@ -1,10 +1,10 @@
-# AKING
-PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.AKING.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
+# Ali khan
+Free
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Ali khan-dimgray?style=flat-square&logo=github)](https://github.com/Alikhan)<br>)
 
 
 
-<h1 align="center"> [MR.AKING]</h1>
+<h1 align="center"> [Ali khan]</h1>
 
 <h2 align="center">  FB CLONING TOOL </h2>
 
@@ -21,12 +21,12 @@ PAID TOOLS
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf AKING`
-- `git clone --depth=1 https://github.com/AKING110/AKING.git`
-- `cd AKING`
-- `python AKING.py`
+- `rm -rf Alikhan`
+- `git clone --depth=1 https://github.com/Alikhan/Alikhan.git`
+- `cd Alikhan`
+- `python Alikhan.py`
 
 
 
  ___This Tools is Paid___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-Alikhan-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923081565556
